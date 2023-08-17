@@ -5,7 +5,7 @@
 
 Perform sentiment analysis on customer reviews from an e-commerce
 platform using a machine learning model. This project classifies reviews
-as positive, negative, or neutral to help businesses gain insights into
+as positive or negative to help businesses gain insights into
 customer satisfaction and improve their products or services.
 
 
