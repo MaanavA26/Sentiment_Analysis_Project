@@ -40,13 +40,14 @@ creating an interactive user interface.
 
 1.  Clone the repository to your local machine:
 
-    \`\`\`bash git clone
+    ```bash git clone
     <https://github.com/your-username/sentiment-analysis-project.git> cd
     sentiment-analysis-project
 
 1.  Install the required packages using pip:
 
-    \`\`\`bash pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
  
 
 ## Usage
