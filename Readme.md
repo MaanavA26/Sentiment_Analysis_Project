@@ -40,8 +40,8 @@ creating an interactive user interface.
 
 1.  Clone the repository to your local machine:
 
-    ```bash git clone
-    <https://github.com/your-username/sentiment-analysis-project.git> cd
+    ```bash
+    git clone <https://github.com/MaanavA26/sentiment_analysis_project.git> cd
     sentiment-analysis-project
 
 1.  Install the required packages using pip:
